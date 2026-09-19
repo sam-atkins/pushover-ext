@@ -1,0 +1,18 @@
+manifestVersion: 1
+
+name: "@dismal_swamper/pushover"
+version: "2026.09.19.1"
+description: "Send push notifications via the Pushover API"
+repository: "https://github.com/sam-atkins/pushover-ext"
+
+models:
+  - pushover.ts
+
+additionalFiles:
+  - README.md
+  - LICENSE.md
+
+labels:
+  - pushover
+  - notifications
+  - messaging
